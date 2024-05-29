@@ -1,0 +1,57 @@
+h1 {
+    border-top: 10px solid blue;
+  }
+
+  .founders img {
+    width: 300px;
+    height: 200px;
+    border: 10px solid yellow;
+    border-radius: 20px;
+    margin-left: 150px;
+    margin-bottom: 50px;
+  }
+  .founders img:hover {
+    opacity: 0.5;
+  }
+  .line {
+    border-bottom: 10px solid green;
+  }
+  .info {
+    padding: 20px;
+    color: burlywood;
+    font-size: 40px;
+    margin-right: 80px;
+    margin-left: 80px;
+    border-right: 10px solid black;
+    border-left: 10px solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .game {
+    border-radius: 100%;
+    width: 20%;
+    padding: 50px;
+    text-align: center;
+    background-color: cornflowerblue;
+    margin: auto;
+  }
+  ul li {
+    color: darkred;
+    padding: 20px;
+    font-size: 20px;
+  }
+  ul li:before {
+    content: "\219E";
+    margin-right: 20px;
+  }
+  .ans {
+    font-size: 30px;
+    margin-left: 30px;
+  }
+  .ans a {
+    background-color: pink;
+  }
+  .ans a:hover {
+    opacity: 0.5;
+    text-decoration: underline;
+  }
